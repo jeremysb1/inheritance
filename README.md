@@ -1,1 +1,1 @@
-# inheritance
+# Inheritance-based Object Modeling
